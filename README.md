@@ -32,9 +32,8 @@
 - **View Information:** Students can view their attendance, evaluation marks, transcript, and previous semester CGPA comparison graphs.
 - **Feedback Submission:** Students can provide feedback to their teachers.
 
-## Evaluation Criteria
+## Great Features
 
-The project will be evaluated based on the following criteria:
 
 - User-Friendly Interfaces
 - Efficient Data Processing
@@ -42,15 +41,8 @@ The project will be evaluated based on the following criteria:
 - Scalability
 - Integration with Other Systems
 - Bonus: Implementation of Audit Trail (for 20 bonus marks)
-## Project Consultant Teacher
 
-For any queries or assistance, consult with Miss Urooj Ghani.
-
-## Good luck with your project!
-
-We hope that the FAST NUCES FLEX Management System will effectively enhance the academic experience for students and optimize university operations. If you follow the requirements strictly and implement the mentioned features, this system will undoubtedly be a valuable addition to FAST NUCES. Happy coding!
-
-  
+## Good luck!
 
  
 <img src="ss/Screenshot (30).png"/>
