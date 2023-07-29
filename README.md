@@ -1,5 +1,5 @@
 
-<h1> FLEX-MANAGEMENT-SYSTEM</h1>
+<h1> STUDENT-RESULT-MANAGEMENT-SYSTEM</h1>
 <p>
   The entire project incorporates a voice recognition system.
 <p>
