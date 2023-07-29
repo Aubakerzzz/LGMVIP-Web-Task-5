@@ -42,11 +42,6 @@ The project will be evaluated based on the following criteria:
 - Scalability
 - Integration with Other Systems
 - Bonus: Implementation of Audit Trail (for 20 bonus marks)
-
-## Submission
-
-Please submit your project's code and SQL queries programmed in C# using Visual Studio 2019 and SQL Server. Include a document detailing the design aspects, such as relationships/associations (ERD, Schema Diagram, and Mappings). Also, provide the evaluation form (Rubric) for the demo.
-
 ## Project Consultant Teacher
 
 For any queries or assistance, consult with Miss Urooj Ghani.
