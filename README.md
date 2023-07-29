@@ -40,7 +40,7 @@
 - Security and Privacy Measures
 - Scalability
 - Integration with Other Systems
-- Implementation of Audit Trail (for 20 bonus marks)
+- Implementation of Audit Trail 
 
 ## Good luck!
 
